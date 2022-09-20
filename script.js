@@ -27,7 +27,7 @@ function createBooks(books) {
                     <p><span>isbn:</span> ${book.isbn}</p>
                 </div>
                 <div class="booksContainer2">
-                    <p><span>Characters Played:</span> character1,character2</p>
+                    <p><span>Characters Played:</span></p>
                 </div>
             </div>
         
